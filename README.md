@@ -12,7 +12,7 @@ Farmers do not get profits for their products as they sell those products to the
 * To provide a base where the farmers as well as customers can ask any queries.
 
 ### Team Members :
-1. Sonal Misal
-2. Vidya Katara
-3. Priyanka Patil
-4. Monika Borkar
+1. Venkatesh R K 
+2. Prawaj P J
+3. Anil p
+
